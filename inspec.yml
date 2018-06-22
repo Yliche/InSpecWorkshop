@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: InSpec Workshop
+maintainer: Chris Thompson
+copyright: Chris Thompson
+copyright_email: 
+license: All Rights Reserved
+summary: An exercise in building a CentOS profile by writing the controls with InSpec and Azure controls
+version: 0.1.0
